@@ -1,0 +1,78 @@
+[03:56:33] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.9+10-Ubuntu-124.04; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[03:56:33] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.10-117-ver/1.21.10@df4b668 (2025-11-30T22:37:28Z) for Minecraft 1.21.10
+[03:56:33] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[03:56:37] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
+[03:56:37] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (3):
+ - Geyser-Spigot (2.9.2-SNAPSHOT), ViaVersion (5.7.0), floodgate (2.2.5-SNAPSHOT (b126-096c605))
+[03:56:43] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[03:56:46] [ServerMain/INFO]: Loaded 1461 recipes
+[03:56:46] [ServerMain/INFO]: Loaded 1574 advancements
+[03:56:46] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[03:56:46] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 403.0ms
+[03:56:46] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[03:56:46] [Server thread/INFO]: Loading properties
+[03:56:46] [Server thread/INFO]: This server is running Paper version 1.21.10-117-ver/1.21.10@df4b668 (2025-11-30T22:37:28Z) (Implementing API version 1.21.10-R0.1-SNAPSHOT)
+[03:56:46] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[03:56:46] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:56:46] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:56:47] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[03:56:47] [Server thread/INFO]: Default game type: SURVIVAL
+[03:56:47] [Server thread/INFO]: Generating keypair
+[03:56:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:56:48] [Server thread/INFO]: Using epoll channel type
+[03:56:48] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[03:56:48] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[03:56:48] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.5-SNAPSHOT (b126-096c605)
+[03:56:49] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[03:56:49] [Server thread/INFO]: [floodgate] Took 1,067ms to boot Floodgate
+[03:56:49] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.7.0
+[03:56:49] [Server thread/INFO]: [ViaVersion] ViaVersion 5.7.0 is now loaded. Registering protocol transformers and injecting...
+[03:56:50] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading block connection mappings ...
+[03:56:50] [Via-Mappingloader-1/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[03:56:50] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.9.2-SNAPSHOT
+[03:56:51] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[03:56:51] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[03:56:51] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[03:56:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:56:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:56:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:56:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:56:51] [Server thread/INFO]: Preparing level "world"
+[03:56:51] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:overworld'...
+[03:56:51] [Server thread/INFO]: Prepared spawn area in 0 ms
+[03:56:51] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
+[03:56:51] [Server thread/INFO]: Prepared spawn area in 0 ms
+[03:56:51] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
+[03:56:51] [Server thread/INFO]: Prepared spawn area in 1 ms
+[03:56:51] [Server thread/INFO]: Done preparing level "world" (0.468s)
+[03:56:51] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.5-SNAPSHOT (b126-096c605)
+[03:56:52] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.7.0
+[03:56:52] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.9-1.21.10 (773)
+[03:56:52] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.9.2-SNAPSHOT
+[03:56:53] [Server thread/INFO]: [spark] Starting background profiler...
+[03:56:54] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[03:56:54] [Server thread/INFO]: [Geyser-Spigot] 
+[03:56:54] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.9.2-b1017 (git-master-f0815a9)
+[03:56:54] [Server thread/INFO]: [Geyser-Spigot] 
+[03:56:54] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[03:56:58] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 58581
+[03:56:58] [Server thread/INFO]: [Geyser-Spigot] Done (3.437s)! Run /geyser help for help!
+[03:56:58] [Server thread/INFO]: Running delayed init tasks
+[03:56:58] [Server thread/INFO]: Done (26.762s)! For help, type "help"
+[03:56:58] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[03:57:25] [User Authenticator #0/INFO]: UUID of player delsinik is 6e8dcf53-cf55-31bd-9124-fb90470fe299
+[03:57:27] [Server thread/INFO]: delsinik joined the game
+[03:57:28] [Server thread/INFO]: delsinik[/127.63.231.240:56659] logged in with entity id 4 at ([world]-1119.5, 80.875, 812.5)
+[04:07:48] [Server thread/INFO]: delsinik lost connection: Disconnected
+[04:07:48] [Server thread/INFO]: delsinik left the game
+[04:08:48] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[04:14:32] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Player connected with username HushedTen3711 (898)
+[04:14:32] [localSession-7-2/INFO]: [Geyser-Spigot] HushedTen3711 (logged in as: HushedTen3711) has connected to the Java server
+[04:14:33] [Server thread/INFO]: [floodgate] Floodgate player logged in as .HushedTen3711 joined (UUID: 00000000-0000-0000-0009-01f9e0f16fe5)
+[04:14:33] [Server thread/INFO]: .HushedTen3711 joined the game
+[04:14:33] [Server thread/INFO]: .HushedTen3711[/127.149.4.112:0] logged in with entity id 1388 at ([world]5.771901, 71.0, 41.441387)
+[04:14:45] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] HushedTen3711 has disconnected from the Java server because of Bedrock client disconnected
+[04:14:45] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .HushedTen3711 disconnected
+[04:14:45] [Server thread/INFO]: .HushedTen3711 lost connection: Disconnected
+[04:14:45] [Server thread/INFO]: .HushedTen3711 left the game
+[04:15:45] [Server thread/INFO]: Server empty for 60 seconds, pausing
